@@ -1,0 +1,49 @@
+# creación del proyecto
+npm create vite@latest restaurante
+cd restaurante
+npm i
+code .
+
+
+# se crea el archivo .code-workspace
+
+# se configura el puerto de salida de la aplicación
+
+# creación de estructura de carpetas del proyecto
+md src\assets\img
+md src\app\componentes
+md src\app\componentes\platos
+...
+
+# descarga de librerías personalizadas del proyecto
+npm i bootstrap
+npm i bootstrap-icon
+npm i react-bootstrap
+npm i react-router-dom
+npm i react-toastify
+npm i @fortawesome/fontawesome-free
+npm i js-sha512
+npm i jwt-decode
+
+# se copia el icono y las imágenes en las carpetas respectivas
+
+# se personaliza el archivo index.html
+
+# en main.tsx se agregan 4 librerías: 
+# bootstrap.min.css
+# bootstrap.min.js
+# all.css
+# bootstrap-icons.css
+
+# se crean los componentes vacíos
+
+# se ajusta la estructura básica de los componentes
+
+
+
+
+
+
+
+
+
